@@ -4,7 +4,7 @@ const button2 = document.querySelector("#btn2");
 
 // Click event for Alert Me button
 button1.addEventListener("click", () => {
-    alert("Button 1 triggered");
+    alert("Welcome to IT10");
 });
 
 // Double click event for Change Color button
